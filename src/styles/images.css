@@ -1,0 +1,53 @@
+
+/* Profile Image */
+.Photo{
+    background-image: url('/src/images/about-me/asaboutme-big.png');
+}
+/* Projects Photos */
+
+/* Project 1: Shadow Gaming YouTube Channel */
+
+.project1{
+    background-image: url('/src/images/projects/shadowgamingmainpage.png');
+    cursor: none;
+}
+/* Project 2: SASS Web Portfolio */
+.project2{
+    background-image: url('/src/images/projects/sass-page.png');
+    cursor: none;
+}
+/* Project 3: New Spraggins Designs Logo */
+.project3{
+    background-image: url('/src/images/projects/spra-designs.png');
+    cursor: none;
+}
+/* Project 4: Jessica Spraggins's Website I Created */
+.project4{
+    background-image: url('/src/images/projects/jessica-page.png');
+    cursor: none;
+}
+/* Project 4: SG Main Page */
+.project5{
+    background-image: url('/src/images/projects/sg-mainpage.png');
+    cursor: none;
+}
+/* Project 4: RPS With Lilly*/
+.project6{
+    background-image: url('/src/images/projects/rps-lilly.png');
+    cursor: none;
+}
+
+/* Education & Achievements */
+
+.misc1{
+    background-image: url('/src/images/projects/as-webcert.jpg');
+    cursor: none;
+}
+.misc2{
+    background-image: url('/src/images/projects/AA-webdesign.png');
+    cursor: none;
+}
+.misc3{
+    background-image: url('/src/images/projects/truck2program.png');
+    cursor: none;
+}
