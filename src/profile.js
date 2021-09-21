@@ -166,8 +166,8 @@ const social = {
   github: "https://github.com/spragginsdesigns",
   facebook: "https://www.facebook.com/spragginsdesigns",
   twitter: "https://twitter.com/shadow_gaming99",
-  instagram: "https://www.instagram.com/agentshadowgaming/",
-  linkedin: "www.linkedin.com/in/spragginsdesigns",
+  instagram: "https://www.instagram.com/spragginsdesigns",
+  linkedin: "https://www.linkedin.com/in/austin-spraggins-a0514612a",
   resume: "https://drive.google.com/file/d/1nOLZTnYaAk-INuIc4AqtUe5qxfsZ1vmI/view?usp=sharing",
 };
 
