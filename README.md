@@ -1,10 +1,8 @@
 <!-- PROJECT LOGO -->
 
-![Spraggins Designs Cover Dark Mode](C:\Users\Owner\Desktop\Spraggins Designs Logo\Spraggins Designs Cover Dark Mode.jpg)
+![Spraggins Designs Cover Dark Mode](other/Spraggins Designs Cover Dark Mode.jpg)
 
 # Welcome To Spraggins Designs
-
-
 
 ==This is my first React.js web app and also my Portfolio of skills and work==
 
@@ -12,7 +10,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-<img src="E:\Code-Directory\reactportfolio\android-chrome-192x192.png" alt="android-chrome-192x192" style="zoom:100%;" />)
+<img src="reactportfolio\android-chrome-192x192.png" alt="android-chrome-192x192" style="zoom:100%;" />)
 
 This web app was built from a forked template which I highly suggest anyone reading this to go check out and contribute if you can: https://www.linkedin.com/in/kaustubhai/
 
@@ -33,18 +31,12 @@ This section should list any major frameworks that you built your project using.
 * CSS3
 * JavaScript
 
-
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues). Otherwise, there are several known issues already in the main folder that need cleanup
+There are several known issues already in the main folder that need cleanup
 
 And of course I need to address the og link rel’s to properly work. 
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -58,16 +50,12 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Austin Spraggins - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Austin Spraggins - [@your_twitter](https://twitter.com/Shadow_Gaming99) - austin@spragginsdesigns.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Project Link: [https://github.com/spragginsdesigns](https://github.com/spragginsdesigns/reactportfolio)
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -82,9 +70,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
