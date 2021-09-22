@@ -1,16 +1,16 @@
 <!-- PROJECT LOGO -->
 
-![Spraggins Designs Cover Dark Mode](reactportfolio/other/Spraggins Designs Cover Dark Mode.jpg)
+![Spraggins Designs Cover Dark Mode](https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/Spraggins%20Designs%20Cover%20Dark%20Mode.jpg)
 
 # Welcome To Spraggins Designs
 
-==This is my first React.js web app and also my Portfolio of skills and work==
+### This is my first React.js web app and also my Portfolio of skills and work
 
 <br />
 
 <!-- TABLE OF CONTENTS -->
 
-<img src="reactportfolio\android-chrome-192x192.png" alt="android-chrome-192x192" style="zoom:100%;" />)
+<img src="https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/spraggins-designs-rounded.png" alt="android-chrome-192x192" style="zoom:100%;" />)
 
 This web app was built from a forked template which I highly suggest anyone reading this to go check out and contribute if you can: https://www.linkedin.com/in/kaustubhai/
 
