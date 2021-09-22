@@ -46,8 +46,7 @@ Any contributions you make are **greatly appreciated**.
 
 <!-- CONTACT -->
 ## Contact
-Austin Spraggins - [austin@spragginsdesigns.com](https://www.spragginsdesigns) | austin@spragginsdesigns.com
-Project Link: [https://github.com/spragginsdesigns](https://github.com/spragginsdesigns/reactportfolio)
+Austin Spraggins - <austin@spragginsdesigns.com> (https://www.spragginsdesigns.com)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
