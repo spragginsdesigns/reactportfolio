@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 
-![Spraggins Designs Cover Dark Mode](other/Spraggins Designs Cover Dark Mode.jpg)
+![Spraggins Designs Cover Dark Mode](reactportfolio/other/Spraggins Designs Cover Dark Mode.jpg)
 
 # Welcome To Spraggins Designs
 
