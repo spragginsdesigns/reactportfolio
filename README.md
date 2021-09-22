@@ -2,6 +2,8 @@
 ![Spraggins Designs Cover Dark Mode](https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/Spraggins%20Designs%20Cover%20Dark%20Mode.jpg)
 # Welcome To Spraggins Designs
 
+* Official Website: (https://www.spragginsdesigns.com)
+
 #### This is my first React.js web app and also my Portfolio of skills and work
 
 <!-- TABLE OF CONTENTS -->
@@ -46,7 +48,7 @@ Any contributions you make are **greatly appreciated**.
 
 <!-- CONTACT -->
 ## Contact
-Austin Spraggins - <austin@spragginsdesigns.com> (https://www.spragginsdesigns.com)
+Austin Spraggins - <austin@spragginsdesigns.com>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
