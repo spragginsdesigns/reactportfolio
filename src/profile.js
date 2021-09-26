@@ -150,7 +150,7 @@ const miscellaneous = [
     //  './styles/images.css' in #misc3
     id: "misc3",
     name: "Truck Driver To Programmer | My Struggle To Change Careers For Passion",
-    url: "https://www.youtube.com/c/shadowgaming99",
+    url: "https://docs.google.com/document/d/1ZriXNTPb4mPwGRMlWG1hCJHxSKQbqaLV4VlLmVupNkA/edit?usp=sharing",
   },
 ];
 // Contact form text, and Formspree link
