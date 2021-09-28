@@ -168,7 +168,7 @@ const social = {
   twitter: "https://twitter.com/shadow_gaming99",
   instagram: "https://www.instagram.com/spragginsdesigns",
   linkedin: "https://www.linkedin.com/in/austin-spraggins-a0514612a",
-  resume: "https://drive.google.com/file/d/1LFFF0yqhrMf0A_T8fTKb0NgBQPppIuCA/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1uoh97m-71gMB1QOi0B_Y7Lp9TnVWrlgs/view?usp=sharing",
 };
 
 export {
