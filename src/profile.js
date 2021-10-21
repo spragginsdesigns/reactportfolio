@@ -98,7 +98,7 @@ const projects = [
     id: "project2",
     name: "SASS Portfolio",
     skills: ["HTML, CSS, SASS JS"],
-    url: "https://github.com/spragginsdesigns",
+    url: "https://www.austinspragginsportfolio.xyz",
   },
   {
     // './styles/images.css' in #project3
@@ -168,7 +168,7 @@ const social = {
   twitter: "https://twitter.com/shadow_gaming99",
   instagram: "https://www.instagram.com/spragginsdesigns",
   linkedin: "https://www.linkedin.com/in/austin-spraggins-a0514612a",
-  resume: "https://drive.google.com/file/d/1uoh97m-71gMB1QOi0B_Y7Lp9TnVWrlgs/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/17y90QJ6i0cIss-T6WimLMjjnIzIFxkaw/view?usp=sharing",
 };
 
 export {
