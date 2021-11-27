@@ -19,7 +19,7 @@ const background = {
 const section2title = "About Who I Am";
 const about = {
   paragraph:
-    "When it comes to Web Design, Web Development, Penetration Testing, creating and maintaining a 10,000 subscribers YouTube channel and brand, there is a straightforward way to explain how I do all of this and continue to work hard at it: Passion. With Spraggins Designs, you get a person who thrives in programming for the web, making our online world a little bit safer every day, and providing over ten thousand wonderful people with content I work incredibly hard to create. All while being the best husband and father to my incredible family I can be. I am a business owner, student, graphics designer, YouTuber, and primarily self-taught, independent programmer with a wide range of skills showcased below. I continue to learn and master these skills every day. Thank you for being here and taking your valuable time visiting my page.",
+    " I passionately approach Web Design and Development, Penetration Testing, and Content Creation for almost 10K subscribers on my YouTube channel Shadow Gaming. I am genuinely enthusiastic about programming for the web, cybersecurity, and providing over 10,000 people with content I work tirelessly to produce. While simultaneously being the most loving husband and father I can be to my incredible family. As a small business owner, student, graphic designer, YouTuber, and primarily self-taught, independent programmer, I possess many skills. I continue to learn and master these skills daily. I appreciate you visiting my website and taking your valuable time to do so.",
 };
 // My skills, I did not add any skill bars.
 const skillsBar = [
@@ -33,13 +33,13 @@ const skillsBar = [
     name: "CSS3",
     faClass: "fab fa-css3",
   },
+   {
+    name: "SASS",
+    faClass: "fab fa-sass",
+  },
   {
     name: "JavaScript",
     faClass: "fab fa-js",
-  },
-  {
-    name: "SASS",
-    faClass: "fab fa-sass",
   },
   // Or use fab fa-npm for npm icon //
   {
