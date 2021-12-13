@@ -143,7 +143,7 @@ const miscellaneous = [
   {
     //  './styles/images.css' in #misc2
     id: "misc2",
-    name: "Information Systems: Web Design Associate in Science Degree | Fall 2021",
+    name: "Information Systems: Web Design Associate in Science Degree",
     url: "https://bit.ly/AAwebdesignaustin",
   },
   {
