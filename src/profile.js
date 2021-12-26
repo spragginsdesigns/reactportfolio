@@ -19,7 +19,7 @@ const background = {
 const section2title = "About Who I Am";
 const about = {
   paragraph:
-    " I passionately approach Web Design and Development, Penetration Testing, and Content Creation for almost 10K subscribers on my YouTube channel Shadow Gaming. I am genuinely enthusiastic about programming for the web, cybersecurity, and providing over 10,000 people with content I work tirelessly to produce. While simultaneously being the most loving husband and father I can be to my incredible family. As a small business owner, student, graphic designer, YouTuber, and primarily self-taught, independent programmer, I possess many skills. I continue to learn and master these skills daily. I appreciate you visiting my website and taking your valuable time to do so.",
+    "I have been learning web programming and cyber security for three years now, and I fell in love with it. I build websites, web and mobile applications, and pentest them so your website will not be vulnerable to hackers. With Spraggins Designs, you will hire a person who thrives in programming for the web, a graphics designer, OSCP certified pentester and marketer for your brand. I am a business owner, graphics designer, YouTuber, and primarily self-taught, independent programmer with a wide range of skills showcased below and a professional YouTube Content Creator.",
 };
 // My skills, I did not add any skill bars.
 const skillsBar = [
