@@ -43,9 +43,9 @@ Check the acknowledgements section, he is the first person I acknowledge for his
 
 * ~~There are several known issues already in the main folder that need cleanup~~
 * ~~And of course I need to address the og link rel’s to properly work.~~
-* ~~There are more fixes coming and anyone who can help, please reach out.
-* ~~They are all quite minor, but overall I am very happy with what I have built, with the help from my friend too.
-* Adding more projects
+* ~~There are more fixes coming and anyone who can help, please reach out.~~
+* ~~They are all quite minor, but overall I am very happy with what I have built, with the help from my friend too.~~
+* ~~Adding more projects~~
 * Main Projects | Passion Projects
 * Add more graphic design, web design and cyber security experience
 
