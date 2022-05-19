@@ -1,5 +1,6 @@
 <!-- PROJECT LOGO -->
-![Spraggins Designs Cover Dark Mode](https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/Spraggins%20Designs%20Cover%20Dark%20Mode.jpg)
+![Spraggins Designs Cover Dark Mode](https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/Spraggins%20Designs%20Cover%20Dark%20Mode.jpg)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspragginsdesigns%2Freactportfolio.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspragginsdesigns%2Freactportfolio?ref=badge_shield)
+
 
 # Welcome To Spraggins Designs
 
@@ -98,3 +99,7 @@ In the past 2 years, I have grown my programming and design skills by learning H
 I will continue to develop as an exceptional programmer every day, regardless of hiring me.  
 
 Thank you for reading. Consider looking at my Truck Driver to Programmer story located [here](https://docs.google.com/document/d/1ZriXNTPb4mPwGRMlWG1hCJHxSKQbqaLV4VlLmVupNkA/edit)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspragginsdesigns%2Freactportfolio.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspragginsdesigns%2Freactportfolio?ref=badge_large)
