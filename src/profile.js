@@ -225,7 +225,7 @@ const social = {
   instagram: "https://www.instagram.com/spragginsdesigns",
   linkedin: "https://www.linkedin.com/in/austin-spraggins-a0514612a",
   resume:
-    "https://drive.google.com/file/d/1TlroSotc1D08paOu9Pq64a4s__UaGXKQ/view?usp=sharing",
+    "https://drive.google.com/file/d/1zNNKo6opMi7lzKzhpEzVCLJp5LsVgYd_/view?usp=sharing",
 };
 
 export {
