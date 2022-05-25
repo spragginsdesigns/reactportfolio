@@ -87,11 +87,8 @@ const skillsBar = [
 
     faClass: "fab fa-linux",
   },
-  {
+];
 
-    name: "Web Development",
-    faClass: "fab faClass: "fab fa-web-dev",
-    },
 // My main projects showcased first
 const section3Title = "Professional Projects";
 const projects = [
