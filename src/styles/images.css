@@ -1,11 +1,11 @@
 
 /* Profile Image */
 .Photo{
-    background-image: url('/src/images/about-me/asaboutme-big.png');
+    background-image: url('src/images/projects/AustinSpragginsWebDev.png');
 }
 /* Projects Photos */
 
-/* Project 1: Shadow Gaming YouTube Channel */
+/* Effycient Landing Page */
 
 .project1{
     background-image: url('src/images/projects/effycient.png');
