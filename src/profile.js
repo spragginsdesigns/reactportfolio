@@ -136,53 +136,6 @@ const projects = [
   },
 ];
 
-// My passion projects
-const section3Title = "Passion Projects";
-const projects = [
-  {
-    //  './styles/images.css' in #project1
-    id: "project1",
-    name: "Shadow Gaming | Official Youtube Channel",
-    skills: ["Adobe Creative Cloud, SEO, Branding/Marketing"],
-    url: "https://www.youtube.com/c/shadowgaming99",
-  },
-  {
-    // './styles/images.css' in #project2
-    id: "project2",
-    name: "SASS Portfolio",
-    skills: ["HTML, CSS, SASS JS"],
-    url: "https://www.austinspragginsportfolio.xyz",
-  },
-  {
-    // './styles/images.css' in #project3
-    id: "project3",
-    name: "Spraggins Designs Logo",
-    skills: ["Adobe Creative Cloud Apps"],
-    url: "https://www.spragginsdesigns.com",
-  },
-  {
-    //  './styles/images.css' in #project4
-    id: "project4",
-    name: "My Wife's Website",
-    skills: ["HTML, CSS, JS, Parallax"],
-    url: "https://spragginsdesigns.github.io/jessica-spraggins-portfolio/",
-  },
-  {
-    //  './styles/images.css' in #project5
-    id: "project5",
-    name: "Shadow Gaming | Official Website",
-    skills: ["HTML, CSS, JS"],
-    url: "https://www.shadowgaming.network/",
-  },
-  {
-    //  './styles/images.css' in #project6
-    id: "project6",
-    name: "Rock Paper Scissors Game | Created With My Daughter Lilly",
-    skills: ["Python 3.9"],
-    url: "https://github.com/spragginsdesigns/rock-paper-scissors",
-  },
-];
-
 // Education & Achievements Section
 
 const section4Title = "Education & Achievements";
