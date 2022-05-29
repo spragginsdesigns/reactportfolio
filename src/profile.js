@@ -82,15 +82,10 @@ const skillsBar = [
 
     faClass: "fab fa-microsoft",
   },
-  {
-    name: "Kali Linux",
-
-    faClass: "fab fa-linux",
-  },
 ];
 
 // My main projects showcased first
-const section3Title = "Professional Projects";
+const section3Title = "Projects";
 const projects = [
   {
     //  './styles/images.css' in #project1
