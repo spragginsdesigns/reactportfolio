@@ -87,13 +87,10 @@ const skillsBar = [
 
     faClass: "fab fa-linux",
   },
-  {
-name: "Web Development",
-    faClass: "fas fa-code",
-    },
+];
 
-// My Professional projects showcased first
-const section2Title = "Professional Projects";
+// My main projects showcased first
+const section3Title = "Professional Projects";
 const projects = [
   {
     //  './styles/images.css' in #project1
@@ -225,7 +222,7 @@ const social = {
   instagram: "https://www.instagram.com/spragginsdesigns",
   linkedin: "https://www.linkedin.com/in/austin-spraggins-a0514612a",
   resume:
-    "https://drive.google.com/file/d/1TlroSotc1D08paOu9Pq64a4s__UaGXKQ/view?usp=sharing",
+    "https://drive.google.com/file/d/1zNNKo6opMi7lzKzhpEzVCLJp5LsVgYd_/view?usp=sharing",
 };
 
 export {

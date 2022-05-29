@@ -11,16 +11,16 @@ const ParticlesBackground = () => {
                 params={{
                 "particles": {
                     "number": {
-                        "value": 300,
+                        "value": 200,
                         "density": {
-                            "enable": true, value_area: 800
+                            "enable": true, value_area: 500
                         }
                     },
                     "color": {
                         "value": "#000000"
                     },
                     "size": {
-                        "value": 10,
+                        "value": 6,
                         "random": true
                     },
                     "move": {
