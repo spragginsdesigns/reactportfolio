@@ -92,7 +92,7 @@ const projects = [
     id: "project1",
     name: "Effycient Homepage",
     skills: ["Adobe Creative Cloud, SEO, Branding/Marketing"],
-    url: "https://www.youtube.com/c/shadowgaming99",
+    url: "https://www.effycient.com",
   },
   {
     // './styles/images.css' in #project2
