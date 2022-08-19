@@ -6,7 +6,7 @@
 
 * Official Website: (https://www.spragginsdesigns.com)
 
-## This is my first React Project I have published. This is also my Web Developer & Designer Portfolio
+## This is the first React Project I have published. This is also my Web Developer & Designer Portfolio
 
 <!-- Overview Of Project -->
 
