@@ -101,3 +101,7 @@ In the past 2 years, I have grown my programming and design skills by learning H
 I will continue to develop as an exceptional programmer every day, regardless of hiring me.
 
 Thank you for reading. Consider looking at my Truck Driver to Programmer story located [here](https://docs.google.com/document/d/1ZriXNTPb4mPwGRMlWG1hCJHxSKQbqaLV4VlLmVupNkA/edit)
+
+<!-- Netlify -->
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e084c775-042a-435b-9969-3d8dcdfe3282/deploy-status)](https://app.netlify.com/sites/spragginsdesigns/deploys)
