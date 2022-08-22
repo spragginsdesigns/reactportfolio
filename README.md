@@ -2,6 +2,8 @@
 
 ![Spraggins Designs Cover Dark Mode](https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/Spraggins%20Designs%20Cover%20Dark%20Mode.jpg)
 
+[![GitHub license](https://img.shields.io/github/license/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/blob/Spraggins-Designs/LICENSE)
+
 # Welcome To Spraggins Designs
 
 * Official Website: (https://www.spragginsdesigns.com)
