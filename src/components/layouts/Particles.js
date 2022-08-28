@@ -12,17 +12,17 @@ const ParticlesBackground = () => {
 					params={{
 						particles: {
 							number: {
-								value: 77,
+								value: 300,
 								density: {
 									enable: true,
-									value_area: 641.3493991357814,
+									value_area: 800,
 								},
 							},
 							color: {
 								value: "#000000",
 							},
 							size: {
-								value: 4,
+								value: 10,
 								random: true,
 							},
 							move: {
@@ -59,34 +59,27 @@ const ParticlesBackground = () => {
 								enable: true,
 							},
 							number: {
-								value: 75,
+								value: 100,
 								density: {
-									enable: true,
-									value_area: 641.3493991357814,
+									enable: false,
 								},
 							},
-							color: {
-								value: "#ffffff",
-							},
+							color: "#000",
 							size: {
-								value: 3,
+								value: 5,
 								random: true,
 								anim: {
-									enable: false,
-									speed: 40,
-									size_min: 0.1,
-									sync: false,
+									speed: 5,
+									size_min: 0.8,
 								},
 							},
 							line_linked: {
 								enable: true,
 								color: "#000",
-								opacity: 0.5,
-								width: 1.5,
 							},
 							move: {
 								enable: true,
-								speed: 3,
+								speed: 2,
 								direction: "none",
 								random: false,
 								straight: false,
@@ -96,7 +89,6 @@ const ParticlesBackground = () => {
 							},
 						},
 						interactivity: {
-							detect_on: "canvas",
 							events: {
 								onhover: {
 									enable: true,
@@ -106,14 +98,13 @@ const ParticlesBackground = () => {
 									enable: true,
 									mode: "push",
 								},
-								resize: true,
 							},
 							modes: {
 								bubble: {
-									grab: { distance: 250, line_linked: { opacity: 5 } },
+									grab: { distance: 400, line_linked: { opacity: 5 } },
 									bubble: {
-										distance: 250,
-										size: 50,
+										distance: 400,
+										size: 60,
 										duration: 2,
 										opacity: 8,
 										speed: 3,
