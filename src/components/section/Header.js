@@ -28,7 +28,13 @@ const Header = () => {
 	return (
 		<div>
 			<div className="Header">
-				<h1>{`I am ${header.name}`}</h1>
+				<h1>{`I Am ${header.name}`}</h1>
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
 				<p className="line-1 anim-typewriter">Welcome To My Site, Friend</p>
 				<label className="switch">
 					<input
@@ -46,7 +52,7 @@ const Header = () => {
 				alt="Contact Me"
 				title="Contact Me"
 				className="gtp"
-				src="/public/profile.svg"
+				src="/mstile-150x150.png"
 			></img>
 		</div>
 	);
