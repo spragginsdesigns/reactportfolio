@@ -16,10 +16,10 @@ const background = {
   type: "Particle"
 };
 // about me image located in the './styles/images.css'
-const section2title = "About Who I Am";
+const section2title = "Who I Am";
 const about = {
   paragraph:
-    "I am a professional web designer and web developer as well as Penetration Tester through Kali Linux. I was a truck driver three years ago, and I quit to do this. Design and develop websites, web apps, mobile apps and secure them as well as the rest of the web as much as I can. I provide services as a business and am seeking employment as well."
+    "I am a professional Web Developer, Web Designer, Windows, and Linux Administrator and expert in Offensive Cybersecurity. I was a truck driver many years ago, and I quit to pursue my true passion in life. Design and develop websites, web apps, mobile apps and secure them as well as the rest of the web as much as I can. Currently, I am a Web Developer Instructor with BitWise Industries via Geekwise Academy, and I love teaching students. I feel blessed every day I work with our students and go above and beyond to make sure they all excel in what they want to do. If you are looking for help developing your website or learning web programming or penetration testing, please contact me below. Thanks."
 };
 // My skills, I did not add any skill bars.
 const skillsBar = [
@@ -42,8 +42,8 @@ const skillsBar = [
     faClass: "fab fa-js"
   },
   {
-    name: "jQuery",
-    faClass: "fab fa-jquery"
+    name: "Angular",
+    faClass: "fab fa-angular"
   },
 
   // Or use fab fa-npm for npm icon //
@@ -81,7 +81,12 @@ const skillsBar = [
     name: "Azure",
 
     faClass: "fab fa-microsoft"
-  }
+  },
+  
+  {
+    name: "Microsoft Administrator",
+    
+    faClass: "fab fa-microsoft"
 ];
 
 // My main projects showcased first
@@ -90,8 +95,8 @@ const projects = [
   {
     //  './styles/images.css' in #project1
     id: "project1",
-    name: "Effycient Homepage",
-    skills: ["Adobe Creative Cloud, SEO, Branding/Marketing"],
+    name: "Effycient Landing Page",
+    skills: ["Adobe Creative Cloud, SEO, Branding/Marketing, Webflow"],
     url: "https://www.effycient.com"
   },
   {
@@ -118,8 +123,8 @@ const projects = [
   {
     //  './styles/images.css' in #project5
     id: "project5",
-    name: "Shadow Gaming | Official Website",
-    skills: ["HTML, CSS, JS"],
+    name: "Shadow Gaming Official Website",
+    skills: ["HTML, CSS, JS, jQuery"],
     url: "https://www.shadowgaming.network/"
   },
   {
