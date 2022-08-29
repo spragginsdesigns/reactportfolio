@@ -2,9 +2,20 @@
 
 ![Spraggins Designs Cover Dark Mode](https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/Spraggins%20Designs%20Cover%20Dark%20Mode.jpg)
 
+<!-- Badges -->
+
+[![spragginsdesigns - reactportfolio](https://img.shields.io/static/v1?label=spragginsdesigns&message=reactportfolio&color=blue&logo=github)](https://github.com/spragginsdesigns/reactportfolio "Go to GitHub repo")
+
 [![GitHub license](https://img.shields.io/github/license/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/blob/Spraggins-Designs/LICENSE)
 
-# Welcome To Spraggins Designs
+[![GitHub stars](https://img.shields.io/github/stars/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/stargazers)
+
+[![GitHub forks](https://img.shields.io/github/forks/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/network)
+
+[![GitHub issues](https://img.shields.io/github/issues/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/issues)
+
+
+# Austin Spraggins Portfolio Website
 
 * Official Website: (https://www.spragginsdesigns.com)
 
@@ -103,6 +114,12 @@ In the past 2 years, I have grown my programming and design skills by learning H
 I will continue to develop as an exceptional programmer every day, regardless of hiring me.
 
 Thank you for reading. Consider looking at my Truck Driver to Programmer story located [here](https://docs.google.com/document/d/1ZriXNTPb4mPwGRMlWG1hCJHxSKQbqaLV4VlLmVupNkA/edit)
+
+<!-- Documentation -->
+
+## License
+
+Released under [GNU](/LICENSE) by [@spragginsdesigns](https://github.com/spragginsdesigns).
 
 <!-- Netlify -->
 
