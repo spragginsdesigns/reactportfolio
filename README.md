@@ -4,6 +4,11 @@
 
 [![GitHub license](https://img.shields.io/github/license/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/blob/Spraggins-Designs/LICENSE)
 
+[![GitHub stars](https://img.shields.io/github/stars/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/stargazers)
+
+[![GitHub issues](https://img.shields.io/github/issues/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/issues)
+
+
 # Welcome To Spraggins Designs
 
 * Official Website: (https://www.spragginsdesigns.com)
