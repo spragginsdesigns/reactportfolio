@@ -6,6 +6,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/stargazers)
 
+[![GitHub forks](https://img.shields.io/github/forks/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/network)
+
 [![GitHub issues](https://img.shields.io/github/issues/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/issues)
 
 
