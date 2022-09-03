@@ -2,30 +2,40 @@
 
 ![Spraggins Designs Cover Dark Mode](https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/Spraggins%20Designs%20Cover%20Dark%20Mode.jpg)
 
+***
 <!-- Badges -->
 
-[![spragginsdesigns - reactportfolio](https://img.shields.io/static/v1?label=spragginsdesigns&message=reactportfolio&color=blue&logo=github)](https://github.com/spragginsdesigns/reactportfolio "Go to GitHub repo")
+### Made With
 
-[![GitHub license](https://img.shields.io/github/license/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/blob/Spraggins-Designs/LICENSE)
+***
 
-[![GitHub stars](https://img.shields.io/github/stars/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/stargazers)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-[![GitHub forks](https://img.shields.io/github/forks/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/network)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-[![GitHub issues](https://img.shields.io/github/issues/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/issues)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# Austin Spraggins Portfolio Website
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+***
+
+# Website
 
 * Official Website: (https://www.spragginsdesigns.com)
 
 ## This is the first React Project I have published. This is also my Web Developer & Designer Portfolio
 
+***
 <!-- Overview Of Project -->
 
 This web app was built originally from a good friend of mine, and after many tireless weeks of work I managed to finish it into something I could call my own.
 Check the acknowledgements section, he is the first person I acknowledge for his help, work, kindness, and overall being a fellow programmer and gentleman. Otherwise, I have remade this React Web Application into something entirely new and different but I still would like to keep it open source as it is so helpful to build upon original source code.
 
+***
 ### Why React?
 
 * I managed to create something I am proud of, have learned a great deal about React from, and deploying it as well. It might be my favorite framework now.
@@ -35,6 +45,7 @@ Check the acknowledgements section, he is the first person I acknowledge for his
 * If you have any questions, concerns or feedback please contact me through the email I provide below.
 * Thank you.
 
+***
 ### This Web App Portfolio Was Built With
 
 * [React](https://reactjs.org)
@@ -48,20 +59,20 @@ Check the acknowledgements section, he is the first person I acknowledge for his
 * [Windows 11 Insider Build](https://insider.windows.com/en-us/)
 * [MonoLisa](https://www.monolisa.dev/) Programming Font
 
+***
 <!-- ROADMAP -->
 
 ## Roadmap
 
-* ~~There are several known issues already in the main folder that need cleanup~~
-* ~~And of course I need to address the og link rel’s to properly work.~~
-* There are more fixes coming and anyone who can help, please reach out.
-* They are all quite minor, but overall I am very happy with what I have built, with the help from my friend too.
-* Adding more projects
-* Main Projects | Passion Projects
-* Add more graphic design, web design and cyber security experience
+- [x] There are several known issues already in the main folder that need cleanup and upgrading
+- [x] Add more porjects as I create them
+- [x] Add more descriptions to everything
+- [ ] Add timers for Copyright to switch over each year via JavaScript
+- [ ] Fix Hyperlink image issue
+- [ ] Fix tsparticle npm package issue causing Netlify deployment issues
 
 <!-- CONTRIBUTING -->
-
+***
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create.
@@ -73,12 +84,30 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+***
 <!-- CONTACT -->
 
 ## Contact
 
 Austin Spraggins - <austin@spragginsdesigns.com>
 YouTube Channel: [Shadow Gaming](https://www.youtube.com/c/shadowgaming99)
+
+***
+
+[![spragginsdesigns - reactportfolio](https://img.shields.io/static/v1?label=spragginsdesigns&message=reactportfolio&color=blue&logo=github)](https://github.com/spragginsdesigns/reactportfolio "Go to GitHub repo")
+
+[![GitHub license](https://img.shields.io/github/license/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/blob/Spraggins-Designs/LICENSE)
+
+[![GitHub stars](https://img.shields.io/github/stars/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/stargazers)
+
+[![GitHub forks](https://img.shields.io/github/forks/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/network)
+
+[![GitHub issues](https://img.shields.io/github/issues/spragginsdesigns/reactportfolio?style=for-the-badge)](https://github.com/spragginsdesigns/reactportfolio/issues)
+
+<!-- Netlify -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e084c775-042a-435b-9969-3d8dcdfe3282/deploy-status)](https://app.netlify.com/sites/spragginsdesigns/deploys)
+
+***
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -94,6 +123,8 @@ YouTube Channel: [Shadow Gaming](https://www.youtube.com/c/shadowgaming99)
 * [NPM](https://www.npmjs.com/)
 * You should always contribute if you have the means and abilities.
 * Programmers are a community of like-minded individuals and I am so happy to have worked with him.
+
+***
 
 ## Final Statements | Thank You For Reading
 
@@ -115,12 +146,9 @@ I will continue to develop as an exceptional programmer every day, regardless of
 
 Thank you for reading. Consider looking at my Truck Driver to Programmer story located [here](https://docs.google.com/document/d/1ZriXNTPb4mPwGRMlWG1hCJHxSKQbqaLV4VlLmVupNkA/edit)
 
+***
 <!-- Documentation -->
 
 ## License
 
 Released under [GNU](/LICENSE) by [@spragginsdesigns](https://github.com/spragginsdesigns).
-
-<!-- Netlify -->
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e084c775-042a-435b-9969-3d8dcdfe3282/deploy-status)](https://app.netlify.com/sites/spragginsdesigns/deploys)
