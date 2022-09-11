@@ -3,40 +3,38 @@
 ![Spraggins Designs Cover Dark Mode](https://github.com/spragginsdesigns/reactportfolio/blob/d47cfba4d7e7e6ac17ddc1cbd3bb7ab0d3be18f5/other/Spraggins%20Designs%20Cover%20Dark%20Mode.jpg)
 
 ***
+
+[TOC]
+
 <!-- Badges -->
 
-### Made With
+# Created With
 
-***
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+| Created With   |                                                              |
+| -------------- | ------------------------------------------------------------ |
+| HTML5          | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| CSS3           | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| JavaScript     | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| Bootstrap      | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| NodeJS         | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| React          | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| Adobe Software | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
 
 ***
 
 # Website
 
 * Official Website: (https://www.spragginsdesigns.com)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-## This is the first React Project I have published. This is also my Web Developer & Designer Portfolio
-
-***
 <!-- Overview Of Project -->
 
 This web app was built originally from a good friend of mine, and after many tireless weeks of work I managed to finish it into something I could call my own.
 Check the acknowledgements section, he is the first person I acknowledge for his help, work, kindness, and overall being a fellow programmer and gentleman. Otherwise, I have remade this React Web Application into something entirely new and different but I still would like to keep it open source as it is so helpful to build upon original source code.
 
 ***
-### Why React?
+
+# Why React?
 
 * I managed to create something I am proud of, have learned a great deal about React from, and deploying it as well. It might be my favorite framework now.
 * I made this for potential employers, to showcase I can create a React.js web app, and retire my old portfolio made in SASS.
@@ -46,23 +44,10 @@ Check the acknowledgements section, he is the first person I acknowledge for his
 * Thank you.
 
 ***
-### This Web App Portfolio Was Built With
 
-* [React](https://reactjs.org)
-* [Bootstrap](https://getbootstrap.com)
-* [HTML5](https://www.w3schools.com/html/)
-* [CSS3](https://www.w3schools.com/css/default.asp)
-* [JavaScript](https://www.javascript.com/)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Node](https://nodejs.org/en/)
-* [Windows Terminal Preview](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-9-release/)
-* [Windows 11 Insider Build](https://insider.windows.com/en-us/)
-* [MonoLisa](https://www.monolisa.dev/) Programming Font
-
-***
 <!-- ROADMAP -->
 
-## Roadmap
+# Roadmap
 
 - [x] There are several known issues already in the main folder that need cleanup and upgrading
 - [x] Add more porjects as I create them
@@ -72,8 +57,10 @@ Check the acknowledgements section, he is the first person I acknowledge for his
 - [ ] Fix tsparticle npm package issue causing Netlify deployment issues
 
 <!-- CONTRIBUTING -->
+
 ***
-## Contributing
+
+# Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create.
 Any contributions you make are **greatly appreciated**.
@@ -85,9 +72,10 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 ***
+
 <!-- CONTACT -->
 
-## Contact
+# Contact Me
 
 Austin Spraggins - <austin@spragginsdesigns.com>
 YouTube Channel: [Shadow Gaming](https://www.youtube.com/c/shadowgaming99)
@@ -111,7 +99,7 @@ YouTube Channel: [Shadow Gaming](https://www.youtube.com/c/shadowgaming99)
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## Acknowledgements
+# Acknowledgements
 
 * [Kaustubhai](https://github.com/kaustubhai)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -126,7 +114,7 @@ YouTube Channel: [Shadow Gaming](https://www.youtube.com/c/shadowgaming99)
 
 ***
 
-## Final Statements | Thank You For Reading
+# Final Statements | Thank You For Reading
 
 I just made this out of pure passion and hopes to find a full-time position in Web Development. I would have made this regardless though as my passion for Web Design and Development grows everyday.
 
@@ -147,8 +135,9 @@ I will continue to develop as an exceptional programmer every day, regardless of
 Thank you for reading. Consider looking at my Truck Driver to Programmer story located [here](https://docs.google.com/document/d/1ZriXNTPb4mPwGRMlWG1hCJHxSKQbqaLV4VlLmVupNkA/edit)
 
 ***
+
 <!-- Documentation -->
 
-## License
+# License
 
 Released under [GNU](/LICENSE) by [@spragginsdesigns](https://github.com/spragginsdesigns).
