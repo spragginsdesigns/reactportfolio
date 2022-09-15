@@ -4,8 +4,6 @@
 
 ***
 
-[TOC]
-
 <!-- Badges -->
 
 # Created With
