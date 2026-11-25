@@ -22,7 +22,7 @@
 
 # Website
 
-* Official Website: (https://www.spragginsdesigns.com)
+* Official Website: (https://www.spragginsdesigns.xyz)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <!-- Overview Of Project -->
@@ -75,7 +75,7 @@ Any contributions you make are **greatly appreciated**.
 
 # Contact Me
 
-Austin Spraggins - <austin@spragginsdesigns.com>
+Austin Spraggins - <spragginsdesigns@gmail.com> · [spragginsdesigns.xyz](https://www.spragginsdesigns.xyz)
 YouTube Channel: [Shadow Gaming](https://www.youtube.com/c/shadowgaming99)
 
 ***
@@ -112,25 +112,9 @@ YouTube Channel: [Shadow Gaming](https://www.youtube.com/c/shadowgaming99)
 
 ***
 
-# Final Statements | Thank You For Reading
+# About This Project
 
-I just made this out of pure passion and hopes to find a full-time position in Web Development. I would have made this regardless though as my passion for Web Design and Development grows everyday.
-
-For almost two years now, I have been leaving behind truck driving to pursue web design and development as I reached the age of thirty now.
-
-I worked manual labor jobs my entire life and left the $28/hour job I had doing local truck driving for web design and development. It was pure passion for web programming, design, and my YouTube Channel, which had just 1,000 subscribers and now has 10,000.
-
-Do you know how difficult that was with my wife and children to risk everything for what I love to do?
-
-To demonstrate my passion and enthusiasm for web programming and content creation, I have recreated myself as a person and for survival for what you love to do and escape the dead-end jobs.
-
-A man almost with an AA in Web Design who has had his brain rewired to learn the following and more below in my final statement:
-
-In the past 2 years, I have grown my programming and design skills by learning HTML5, CSS3, Sass, JavaScript, Node, Angular, Vue, React, Azure, Kali Linux, and developing a YouTube channel with over 10,000 subscribers.
-
-I will continue to develop as an exceptional programmer every day, regardless of hiring me.
-
-Thank you for reading. Consider looking at my Truck Driver to Programmer story located [here](https://docs.google.com/document/d/1ZriXNTPb4mPwGRMlWG1hCJHxSKQbqaLV4VlLmVupNkA/edit)
+An early React portfolio, kept as a record of where I started. My current work is at [spragginsdesigns.xyz](https://www.spragginsdesigns.xyz).
 
 ***
 
