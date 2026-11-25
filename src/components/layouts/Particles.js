@@ -1,15 +1,22 @@
-import React from "react";
-import Particles from "react-particles-js";
+import React, { useCallback } from "react";
+import Particles from "react-particles";
+import { loadFull } from "tsparticles";
 import { background } from "../../profile";
 
 const ParticlesBackground = () => {
+	const particlesInit = useCallback(async (engine) => {
+		await loadFull(engine);
+	}, []);
+
 	return (
 		<div className="particle">
 			{background.type === "Snow" && (
 				<Particles
 					height="100vh"
 					width="100%"
-					params={{
+					init={particlesInit}
+					options={{
+						fullScreen: { enable: false },
 						particles: {
 							number: {
 								value: 300,
@@ -53,7 +60,9 @@ const ParticlesBackground = () => {
 				<Particles
 					height="100vh"
 					width="100vw"
-					params={{
+					init={particlesInit}
+					options={{
+						fullScreen: { enable: false },
 						particles: {
 							collisions: {
 								enable: true,
